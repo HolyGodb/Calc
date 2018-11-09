@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e60f20d-444f-4a70-9f24-76bac65ec9f2" name="Default Changelist" comment="" />
+    <list default="true" id="9e60f20d-444f-4a70-9f24-76bac65ec9f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCalc.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -70,13 +72,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="9" />
-          <entry key="java" value="764" />
+          <entry key="java" value="774" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="9" />
-          <entry key="JAVA" value="764" />
+          <entry key="JAVA" value="774" />
         </counts>
       </usages-collector>
     </session>
@@ -114,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCalc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="206">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#175#176#0" expanded="true" />
@@ -128,8 +130,6 @@
                 <element signature="e#709#710#0" expanded="true" />
                 <element signature="e#644#645#0" expanded="true" />
                 <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#758#759#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,6 +143,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -457,6 +460,7 @@
     <option name="width" value="1296" />
     <option name="height" value="696" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -469,17 +473,6 @@
             <path>
               <item name="Calc" type="b2602c69:ProjectViewProjectNode" />
               <item name="Calc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Calc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Calc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Calc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Calc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Calc" type="b2602c69:ProjectViewProjectNode" />
@@ -506,7 +499,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541779923191" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541781287913" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -649,13 +642,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
@@ -664,7 +658,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46975088" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2758007" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -710,8 +704,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCalc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="206">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#175#176#0" expanded="true" />
@@ -724,8 +718,6 @@
             <element signature="e#709#710#0" expanded="true" />
             <element signature="e#644#645#0" expanded="true" />
             <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
           </folding>
         </state>
       </provider>
